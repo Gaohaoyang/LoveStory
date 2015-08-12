@@ -73,6 +73,7 @@ body {
   margin-right: 1rem;
 }
 .left .circle {
+  top: -0.08rem;
   right: -2.84rem;
 }
 
@@ -80,6 +81,7 @@ body {
   left: 23rem;
 }
 .right .circle {
+  top: -0.08rem;
   left: -3.76rem;
 }
 
