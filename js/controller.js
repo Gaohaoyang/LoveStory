@@ -10,7 +10,7 @@ var cardGenerator = function(dataArr) {
     var htmlStr = ['<h1 class="title">Love Story</h1>', '<div class="time"></div>'];
 
     for (var i = 0; i < dataArr.length; i++) {
-        if (i / 2 === 0) {
+        if (i % 2 === 0) {
             htmlStr.push('<div class="card left">');
             htmlStr.push('<h2>' + dataArr[i].title + ' ' + dataArr[i].date + '</h2>');
         } else {
