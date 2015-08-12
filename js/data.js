@@ -1,12 +1,11 @@
-console.log("data");
 var together = [{
     title: "初识",
-    date: "2012/04",
-    img: "http://images.china.cn/attachement/jpg/site1007/20081230/0014222d98500ac40c7f05.jpg",
-    content: "建大东宫之夜"
+    date: "2011/05/20",
+    img: "./img/eastRock.jpg",
+    content: "建大东宫之夜。那一天晚上我和乾西、范总、丁宇还有YD，第一次见到了你英英。那时你还是黄色短发，戴着红色大框眼镜，活泼又热心。在我们pogo的时候帮范总拿手机，那时我还对你不太了解，但是觉得你很酷~"
 },{
     title: "First Date",
-    date: "2012/04",
-    img: "",
-    content: ""
+    date: "2012/01/12",
+    img: "./img/thinker.png",
+    content: "前一天在人人上我给你发的第一句话：我最近无聊死了。然后你也没什么事就约了第二天省图见面，那也是我第一次去省图。"
 }];
