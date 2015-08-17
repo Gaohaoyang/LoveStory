@@ -12,7 +12,7 @@ var together = [{
     title: "圭峰山",
     date: "2012/3/10",
     img: "./img/guifengshan.png",
-    content: "在山巅见证了我们的爱情。"
+    content: "在山巅见证了我们的爱情。你开心的抱着我亲了我，拍了一张很有意义的照片。背景是美丽的青山，层层叠叠。"
 },{
     title: "儿童节",
     date: "2012/6/1",
